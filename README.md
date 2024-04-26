@@ -2,13 +2,10 @@
 
 | Student Name | UID | UST email | Github username |
 | ------------ | --- | --------- | --------------- |
-|              |     |           |                 |
-|              |     |           |                 |
-|              |     |           |                 |
-|              |     |           |                 |
+| DENG, Junwei | 21015955 | jdengba@connect.ust.hk | i-got-patrick |
 
 # Topic
-xxxxx
+Hip Hop Music Lyrics Analysis
 
 # URL
 xxxx
