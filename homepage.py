@@ -87,7 +87,7 @@ st.title(body=title, anchor=False)
 
 st.markdown(note2)
 
-with open("my_files\supp.pdf", "rb") as file:
+with open("my_files/supp.pdf", "rb") as file:
     btn0 = st.download_button(
         label="Download the supplementary materials",
         data=file,
