@@ -249,18 +249,18 @@ st.header(head2, anchor=False)
 
 st.markdown(note0)
 
-st.image("my_files\plot1.png", caption="☝️ Figure 1: distribution of polarity. Bars stand for the average values.")
+st.image("my_files/plot1.png", caption="☝️ Figure 1: distribution of polarity. Bars stand for the average values.")
 
-st.image("my_files\plot2.png", caption="☝️ Figure 2: distribution of subjectivity. Bars stand for the average values.")
+st.image("my_files/plot2.png", caption="☝️ Figure 2: distribution of subjectivity. Bars stand for the average values.")
 
-st.image("my_files\plot3.png", caption="☝️ Figure 3: the map of sentiment. Xs stand for the average values.")
+st.image("my_files/plot3.png", caption="☝️ Figure 3: the map of sentiment. Xs stand for the average values.")
 
 st.write(" ")
 st.markdown(text21)
 
-st.image("my_files\plot4.png", caption="☝️ Figure 4: variation of polarity within 20 selected albums.")
+st.image("my_files/plot4.png", caption="☝️ Figure 4: variation of polarity within 20 selected albums.")
 
-st.image("my_files\plot5.png", caption="☝️ Figure 5: variation of subjectivity within 20 selected albums.")
+st.image("my_files/plot5.png", caption="☝️ Figure 5: variation of subjectivity within 20 selected albums.")
 
 st.divider()
 
@@ -270,14 +270,14 @@ st.markdown(text31)
 
 st.markdown("📍 **Step 1: click the buttons to download necessary files**")
 
-with open("my_files\\vectors.tsv", "r") as file:
+with open("my_files/vectors.tsv", "r") as file:
     btn1 = st.download_button(
         label="Download the embedding vectors",
         data=file,
         file_name="genre_vectors.tsv"
         )
     
-with open("my_files\metadata.tsv", "r", encoding="utf-8") as file:
+with open("my_files/metadata.tsv", "r", encoding="utf-8") as file:
     btn2 = st.download_button(
         label="Download the embedding metadata",
         data=file,
@@ -296,9 +296,9 @@ st.markdown("📍 **Step 3: upload the tsv files**")
 
 st.markdown(text32)
 
-st.image("my_files\screenshot0.png", caption="☝️ Screenshot 1")
+st.image("my_files/screenshot0.png", caption="☝️ Screenshot 1")
 
-st.image("my_files\screenshot1.png", caption="☝️ Screenshot 2")
+st.image("my_files/screenshot1.png", caption="☝️ Screenshot 2")
 
 st.markdown("🦉 *And here is a link to a brief tutorial about Embedding Projector (Mandarin).*")
 
