@@ -1,0 +1,226 @@
+period,album_info,track_order,track_title,polarity,subjectivity
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 1,Norman fucking Rockwell,-0.0022988505747126,0.2839080459770113
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 2,Mariners Apartment Complex,0.1478021978021978,0.5901098901098901
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 3,Venice Bitch,0.1643249458874458,0.499940476190476
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 4,Fuck it I love you,0.0350961538461538,0.5480769230769235
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 5,Doin’ Time,-0.1072463768115941,0.4739130434782609
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 6,Love song,0.3561192570869991,0.4758455522971652
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 7,Cinnamon Girl,0.1964876033057851,0.3585858585858586
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 8,How to disappear,0.0073027898027897,0.4576142376142376
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 9,California,0.1241379310344828,0.4689655172413793
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 10,The Next Best American Record,0.2329629629629629,0.4492592592592592
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 11,The greatest,0.3514204545454545,0.5669507575757576
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 12,Bartender,0.2218936011904761,0.4199404761904762
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 13,Happiness is a butterfly,-0.217063492063492,0.4993386243386244
+baseline,Norman Fucking Rockwell! by Lana Del Rey,track 14,​hope is a dangerous thing for a woman like me to have - but i have it,0.011090169992609,0.5911271249076128
+baseline,Time 'n' Place by Kero Kero Bonito,track 1,Outside,0.1006349206349206,0.4576984126984126
+baseline,Time 'n' Place by Kero Kero Bonito,track 2,Time Today,0.104040404040404,0.3808080808080808
+baseline,Time 'n' Place by Kero Kero Bonito,track 3,Only Acting,0.2306697733918128,0.5121345029239767
+baseline,Time 'n' Place by Kero Kero Bonito,track 4,Flyway,-0.0107142857142857,0.2708333333333333
+baseline,Time 'n' Place by Kero Kero Bonito,track 5,Dump,0.0727272727272727,0.5727272727272728
+baseline,Time 'n' Place by Kero Kero Bonito,track 6,Make Believe,0.047069597069597,0.4622710622710623
+baseline,Time 'n' Place by Kero Kero Bonito,track 7,Dear Future Self,0.1694235588972431,0.4791353383458647
+baseline,Time 'n' Place by Kero Kero Bonito,track 8,Visiting Hours,0.1971861471861472,0.3562770562770562
+baseline,Time 'n' Place by Kero Kero Bonito,track 9,If I’d Known,0.1101948051948052,0.5413636363636365
+baseline,Time 'n' Place by Kero Kero Bonito,track 10,Sometimes,0.2726495726495727,0.511431623931624
+baseline,Time 'n' Place by Kero Kero Bonito,track 11,Swimming,0.1698412698412698,0.5253968253968254
+baseline,Time 'n' Place by Kero Kero Bonito,track 12,Rest Stop,0.0670830980613589,0.4864561766735679
+baseline,Be the Cowboy by Mitski,track 1,Geyser,-0.0833333333333333,0.3916666666666666
+baseline,Be the Cowboy by Mitski,track 2,Why Didn’t You Stop Me?,0.5,0.5
+baseline,Be the Cowboy by Mitski,track 3,Old Friend,-0.0028846153846153,0.3903846153846153
+baseline,Be the Cowboy by Mitski,track 4,A Pearl,-0.1326388888888889,0.6451388888888888
+baseline,Be the Cowboy by Mitski,track 5,Lonesome Love,0.2016666666666666,0.59
+baseline,Be the Cowboy by Mitski,track 6,Remember My Name,0.1888888888888888,0.5444444444444445
+baseline,Be the Cowboy by Mitski,track 7,Me and My Husband,0.1444444444444444,0.5333333333333334
+baseline,Be the Cowboy by Mitski,track 8,Come Into the Water,0.35,0.3625
+baseline,Be the Cowboy by Mitski,track 9,Nobody,0.1289473684210526,0.3473684210526315
+baseline,Be the Cowboy by Mitski,track 10,Pink in the Night,0.3604395604395604,0.4796703296703296
+baseline,Be the Cowboy by Mitski,track 11,A Horse Named Cold Air,-0.09,0.425
+baseline,Be the Cowboy by Mitski,track 12,Washing Machine Heart,-0.3875,0.4875
+baseline,Be the Cowboy by Mitski,track 13,Blue Light,0.0275,0.485
+baseline,Be the Cowboy by Mitski,track 14,Two Slow Dancers,-0.0402222222222222,0.3008888888888889
+2020,how i’m feeling now by Charli XCX,track 1,​pink diamond,-0.2232574189095928,0.6041925465838508
+2020,how i’m feeling now by Charli XCX,track 2,​forever,0.3071754729288976,0.5316046966731903
+2020,how i’m feeling now by Charli XCX,track 3,​claws,0.2237142857142857,0.481047619047619
+2020,how i’m feeling now by Charli XCX,track 4,​7 years,-0.1409569113057485,0.6109810731903752
+2020,how i’m feeling now by Charli XCX,track 5,​detonate,0.0311379097093382,0.634972170686457
+2020,how i’m feeling now by Charli XCX,track 6,​enemy,0.0125124007936508,0.6053571428571428
+2020,how i’m feeling now by Charli XCX,track 7,​i finally understand,-0.0723219373219373,0.7424216524216526
+2020,how i’m feeling now by Charli XCX,track 8,​c2.0,0.0403977272727272,0.1527840909090909
+2020,how i’m feeling now by Charli XCX,track 9,​party 4 u,0.1105357142857142,0.7642857142857141
+2020,how i’m feeling now by Charli XCX,track 10,​anthems,-0.0435423197492163,0.5732333184057322
+2020,how i’m feeling now by Charli XCX,track 11,​visions,0.0620039682539682,0.4852678571428571
+2020,tellusboutyourself by Yerin Baek,track 1,Lovegame,-0.077548036758563,0.5736633249791145
+2020,tellusboutyourself by Yerin Baek,track 2,"You’re So Lonely Now, So You Need Me Back By Your Side Again",0.0162561576354679,0.3748768472906403
+2020,tellusboutyourself by Yerin Baek,track 3,I Am Not Your Ocean Anymore,0.164313725490196,0.4695098039215685
+2020,tellusboutyourself by Yerin Baek,track 4,Hall&Oates,0.0073809523809523,0.3873809523809524
+2020,tellusboutyourself by Yerin Baek,track 5,Ms. Delicate,0.19375,0.52625
+2020,tellusboutyourself by Yerin Baek,track 6,Interlude,0.1972727272727272,0.645
+2020,tellusboutyourself by Yerin Baek,track 7,Loner,-0.1822463768115941,0.7021739130434783
+2020,tellusboutyourself by Yerin Baek,track 8,“HOMESWEETHOME”,0.0805555555555555,0.490162037037037
+2020,tellusboutyourself by Yerin Baek,track 9,Loveless,0.3545454545454545,0.6553030303030303
+2020,tellusboutyourself by Yerin Baek,track 10,Hate You,-0.0664634146341463,0.7054878048780489
+2020,tellusboutyourself by Yerin Baek,track 11,0415,0.2923611111111111,0.5048611111111111
+2020,tellusboutyourself by Yerin Baek,track 12,I’ll Be Your Family!,0.1333333333333333,0.5254629629629629
+2020,tellusboutyourself by Yerin Baek,track 13,I’m In Love,0.5159999999999999,0.6339999999999999
+2020,tellusboutyourself by Yerin Baek,track 14,Bubbles&Mushrooms,0.2695652173913043,0.5814009661835747
+2020,DISCO by Kylie Minogue,track 1,Magic,0.2747369528619529,0.8002420033670034
+2020,DISCO by Kylie Minogue,track 2,Miss a Thing,0.0028525046382189,0.472704081632653
+2020,DISCO by Kylie Minogue,track 3,Real Groove,0.4159482758620689,0.4974137931034484
+2020,DISCO by Kylie Minogue,track 4,Monday Blues,-0.0136111111111111,0.3911111111111111
+2020,DISCO by Kylie Minogue,track 5,Supernova,0.1397997835497835,0.3562770562770563
+2020,DISCO by Kylie Minogue,track 6,Say Something,0.4345238095238095,0.6023809523809521
+2020,DISCO by Kylie Minogue,track 7,Last Chance,0.0984001007810531,0.3454018644494834
+2020,DISCO by Kylie Minogue,track 8,I Love It,0.4438461538461539,0.5901282051282057
+2020,DISCO by Kylie Minogue,track 9,Where Does the DJ Go?,-0.0212454212454212,0.4912901912901912
+2020,DISCO by Kylie Minogue,track 10,Dance Floor Darling,0.167032967032967,0.5114774114774114
+2020,DISCO by Kylie Minogue,track 11,Unstoppable,0.25125,0.5675000000000001
+2020,DISCO by Kylie Minogue,track 12,Celebrate You,0.2215277777777777,0.4432291666666667
+2021,Mercurial World by Magdalena Bay,track 1,The End,0.1083333333333333,0.425
+2021,Mercurial World by Magdalena Bay,track 2,Mercurial World,0.0109187109187109,0.7405483405483405
+2021,Mercurial World by Magdalena Bay,track 3,Dawning of the Season,-0.0333333333333333,0.3
+2021,Mercurial World by Magdalena Bay,track 4,Secrets (Your Fire),0.2969696969696969,0.5393939393939394
+2021,Mercurial World by Magdalena Bay,track 5,You Lose!,0.0939393939393939,0.5375
+2021,Mercurial World by Magdalena Bay,track 6,Something for 2,-0.0523809523809523,0.4523809523809523
+2021,Mercurial World by Magdalena Bay,track 7,Chaeri,-0.1871693121693121,0.6453042328042328
+2021,Mercurial World by Magdalena Bay,track 8,Halfway,-0.0335470085470085,0.3373931623931624
+2021,Mercurial World by Magdalena Bay,track 9,Hysterical Us,-0.232253086419753,0.7410493827160494
+2021,Mercurial World by Magdalena Bay,track 10,Prophecy,0.0371858465608465,0.4407407407407407
+2021,Mercurial World by Magdalena Bay,track 11,Follow the Leader,0.075,0.25
+2021,Mercurial World by Magdalena Bay,track 12,Domino,0.2374999999999999,0.3374999999999999
+2021,Mercurial World by Magdalena Bay,track 13,Dreamcatching,0.0894736842105263,0.1210526315789473
+2021,Mercurial World by Magdalena Bay,track 14,The Beginning,0.1456845238095238,0.3845238095238095
+2021,Jubilee by Japanese Breakfast,track 1,Paprika,0.1571428571428571,0.5523809523809523
+2021,Jubilee by Japanese Breakfast,track 2,Be Sweet,0.2857142857142856,0.5285714285714287
+2021,Jubilee by Japanese Breakfast,track 3,"Kokomo, IN",-0.059313725490196,0.2279411764705882
+2021,Jubilee by Japanese Breakfast,track 4,Slide Tackle,0.2615384615384615,0.5076923076923078
+2021,Jubilee by Japanese Breakfast,track 5,Posing in Bondage,-0.2,0.6
+2021,Jubilee by Japanese Breakfast,track 6,Sit,0.0,0.0
+2021,Jubilee by Japanese Breakfast,track 7,Savage Good Boy,0.15,0.6333333333333334
+2021,Jubilee by Japanese Breakfast,track 8,In Hell,0.2777777777777778,0.4888888888888889
+2021,Jubilee by Japanese Breakfast,track 9,Tactics,0.3666666666666666,0.3916666666666666
+2021,Jubilee by Japanese Breakfast,track 10,Posing for Cars,0.0448979591836734,0.3438775510204082
+2021,I Know I’m Funny haha by Faye Webster,track 1,Better Distractions,0.0909090909090909,0.6386363636363636
+2021,I Know I’m Funny haha by Faye Webster,track 2,Sometimes,0.0458333333333333,0.1902777777777777
+2021,I Know I’m Funny haha by Faye Webster,track 3,I Know I’m Funny haha,0.084453781512605,0.5148459383753502
+2021,I Know I’m Funny haha by Faye Webster,track 4,In a Good Way,0.4133116883116885,0.5807359307359308
+2021,I Know I’m Funny haha by Faye Webster,track 5,Kind Of,0.4968045112781955,0.8047619047619042
+2021,I Know I’m Funny haha by Faye Webster,track 6,Cheers,0.425,0.4124999999999999
+2021,I Know I’m Funny haha by Faye Webster,track 7,Both All The Time,-0.0499999999999999,0.2875
+2021,I Know I’m Funny haha by Faye Webster,track 8,A Stranger,0.0817460317460317,0.5215608465608466
+2021,I Know I’m Funny haha by Faye Webster,track 9,A Dream With A Baseball Player,0.3111111111111111,0.5328703703703703
+2021,I Know I’m Funny haha by Faye Webster,track 10,Overslept,0.0188888888888888,0.3277777777777778
+2021,I Know I’m Funny haha by Faye Webster,track 11,Half of Me,-0.1393939393939393,0.2878787878787878
+2022,RENAISSANCE by Beyoncé,track 1,I’M THAT GIRL,0.0532988267770876,0.4679744651483783
+2022,RENAISSANCE by Beyoncé,track 2,COZY,0.013503086419753,0.582445987654321
+2022,RENAISSANCE by Beyoncé,track 3,ALIEN SUPERSTAR,0.1148500881834215,0.6919223985890655
+2022,RENAISSANCE by Beyoncé,track 4,CUFF IT,-0.0074858757062146,0.6163841807909607
+2022,RENAISSANCE by Beyoncé,track 5,ENERGY,0.069951923076923,0.4788461538461538
+2022,RENAISSANCE by Beyoncé,track 6,BREAK MY SOUL,0.1304565260447613,0.4528470984353336
+2022,RENAISSANCE by Beyoncé,track 7,CHURCH GIRL,-0.1039625305250304,0.4780181623931627
+2022,RENAISSANCE by Beyoncé,track 8,PLASTIC OFF THE SOFA,0.2014583333333333,0.5341666666666666
+2022,RENAISSANCE by Beyoncé,track 9,VIRGO’S GROOVE,0.3298858447488584,0.577534246575343
+2022,RENAISSANCE by Beyoncé,track 10,MOVE,0.0033402203856749,0.3848484848484849
+2022,RENAISSANCE by Beyoncé,track 11,HEATED,0.13003300330033,0.5485148514851487
+2022,RENAISSANCE by Beyoncé,track 12,THIQUE,-0.0456962481962482,0.5011724386724388
+2022,RENAISSANCE by Beyoncé,track 13,ALL UP IN YOUR MIND,0.2534090909090909,0.5316091954022988
+2022,RENAISSANCE by Beyoncé,track 14,AMERICA HAS A PROBLEM,0.0557308970099667,0.3875138427464009
+2022,RENAISSANCE by Beyoncé,track 15,PURE/HONEY,0.1037367724867725,0.5798346560846561
+2022,RENAISSANCE by Beyoncé,track 16,SUMMER RENAISSANCE,0.4316500959358101,0.5926827141112858
+2022,The Loneliest Time by Carly Rae Jepsen,track 1,Surrender My Heart,0.0662037037037037,0.5921296296296296
+2022,The Loneliest Time by Carly Rae Jepsen,track 2,Joshua Tree,0.1,0.6499999999999999
+2022,The Loneliest Time by Carly Rae Jepsen,track 3,Talking to Yourself,0.0203703703703703,0.7888888888888888
+2022,The Loneliest Time by Carly Rae Jepsen,track 4,Far Away,0.037361111111111,0.6173611111111111
+2022,The Loneliest Time by Carly Rae Jepsen,track 5,Sideways,0.0173611111111111,0.3673611111111111
+2022,The Loneliest Time by Carly Rae Jepsen,track 6,Beach House,0.1893421052631579,0.4637280701754386
+2022,The Loneliest Time by Carly Rae Jepsen,track 7,Bends,0.0777777777777777,0.5416666666666666
+2022,The Loneliest Time by Carly Rae Jepsen,track 8,Western Wind,0.2316666666666666,0.3055555555555554
+2022,The Loneliest Time by Carly Rae Jepsen,track 9,So Nice,0.316516354016354,0.6864237614237614
+2022,The Loneliest Time by Carly Rae Jepsen,track 10,Bad Thing Twice,-0.2149999999999999,0.6711111111111111
+2022,The Loneliest Time by Carly Rae Jepsen,track 11,Shooting Star,0.0687219130076273,0.33837765409194
+2022,The Loneliest Time by Carly Rae Jepsen,track 12,Go Find Yourself or Whatever,0.0999999999999999,0.4145833333333333
+2022,The Loneliest Time by Carly Rae Jepsen,track 13,The Loneliest Time,0.1779761904761904,0.4668650793650792
+2022,The Loneliest Time by Carly Rae Jepsen,track 14,Anxious,-0.0406400966183575,0.5785024154589373
+2022,The Loneliest Time by Carly Rae Jepsen,track 15,No Thinking Over The Weekend,0.2205128205128205,0.482051282051282
+2022,The Loneliest Time by Carly Rae Jepsen,track 16,Keep Away,0.0845238095238094,0.6511904761904762
+2022,Beatopia by ​beabadoobee,track 1,Beatopia Cultsong,0.0,0.25
+2022,Beatopia by ​beabadoobee,track 2,10:36,0.3256578947368421,0.4151315789473684
+2022,Beatopia by ​beabadoobee,track 3,Sunny day,0.0536458333333333,0.6583333333333333
+2022,Beatopia by ​beabadoobee,track 4,See you Soon,-0.0541666666666666,0.5130555555555555
+2022,Beatopia by ​beabadoobee,track 5,Ripples,-0.0335097001763668,0.5380952380952381
+2022,Beatopia by ​beabadoobee,track 6,​the perfect pair,0.0113095238095237,0.5496031746031745
+2022,Beatopia by ​beabadoobee,track 7,​broken cd,-0.1194444444444444,0.4805555555555554
+2022,Beatopia by ​beabadoobee,track 8,Talk,-0.1942307692307691,0.7102564102564102
+2022,Beatopia by ​beabadoobee,track 9,Lovesong,0.3064102564102564,0.4269230769230768
+2022,Beatopia by ​beabadoobee,track 10,Pictures of Us,0.25,0.2833333333333333
+2022,Beatopia by ​beabadoobee,track 11,​fairy song,0.1537247474747474,0.588888888888889
+2022,Beatopia by ​beabadoobee,track 12,Don’t get the deal,-0.14375,0.3475
+2022,Beatopia by ​beabadoobee,track 13,​tinkerbell is overrated,0.09375,0.5562499999999999
+2022,Beatopia by ​beabadoobee,track 14,You’re here that’s the thing,-0.1651515151515151,0.3848484848484848
+2023,That! Feels Good! by Jessie Ware,track 1,That! Feels Good!,0.4812861781076067,0.6201440940012372
+2023,That! Feels Good! by Jessie Ware,track 2,Free Yourself,0.431738437001595,0.7239234449760767
+2023,That! Feels Good! by Jessie Ware,track 3,Pearls,0.225,0.385
+2023,That! Feels Good! by Jessie Ware,track 4,Hello Love,0.3686666666666666,0.5730000000000005
+2023,That! Feels Good! by Jessie Ware,track 5,Begin Again,0.3271885521885522,0.5579124579124578
+2023,That! Feels Good! by Jessie Ware,track 6,Beautiful People,0.5930429662242223,0.7629099713845477
+2023,That! Feels Good! by Jessie Ware,track 7,Freak Me Now,0.1528025793650792,0.448174603174603
+2023,That! Feels Good! by Jessie Ware,track 8,Shake the Bottle,0.3425395225294418,0.5711213517665131
+2023,That! Feels Good! by Jessie Ware,track 9,Lightning,0.0371241830065359,0.5398366013071896
+2023,That! Feels Good! by Jessie Ware,track 10,These Lips,0.4340470679012346,0.4802469135802469
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 1,Welcome to My Island,0.2999624060150376,0.447781954887218
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 2,Pretty in Possible,0.0845785440613026,0.7312260536398467
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 3,Bunny Is a Rider,0.15,0.75
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 4,Sunset,0.1843685300207039,0.3191511387163561
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 5,Crude Drawing of an Angel,-0.0767676767676767,0.4343434343434343
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 6,I Believe,-0.093584656084656,0.6751322751322751
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 7,Fly to You,0.3229166666666666,0.676388888888889
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 8,Blood and Butter,0.068560606060606,0.5424242424242424
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 9,Hopedrunk Everasking,0.2352272727272727,0.5590909090909091
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 10,Butterfly Net,0.0085115864527629,0.4635026737967914
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 11,Smoke,0.0272727272727272,0.4909090909090909
+2023,"Desire, I Want to Turn Into You by Caroline Polachek",track 12,Billions,0.45,0.7666666666666666
+2023,GUTS by Olivia Rodrigo,track 1,​all-american bitch,0.3068783068783069,0.7787551440329218
+2023,GUTS by Olivia Rodrigo,track 2,​bad idea right?,-0.0386291486291485,0.5921620971620971
+2023,GUTS by Olivia Rodrigo,track 3,​vampire,-0.085843685300207,0.658501552795031
+2023,GUTS by Olivia Rodrigo,track 4,​lacy,0.0926282051282051,0.5442307692307693
+2023,GUTS by Olivia Rodrigo,track 5,​ballad of a homeschooled girl,-0.0689909297052153,0.4222789115646257
+2023,GUTS by Olivia Rodrigo,track 6,​making the bed,0.2650793650793651,0.5158730158730159
+2023,GUTS by Olivia Rodrigo,track 7,​logical,0.0807833333333333,0.5069944444444446
+2023,GUTS by Olivia Rodrigo,track 8,​get him back!,-0.0113781109151479,0.3096952772878699
+2023,GUTS by Olivia Rodrigo,track 9,​​love is embarrassing,0.0069724025974025,0.4539853896103896
+2023,GUTS by Olivia Rodrigo,track 10,​​the grudge,0.0392592592592592,0.6531018518518519
+2023,GUTS by Olivia Rodrigo,track 11,​pretty isn’t pretty,0.0674675324675324,0.7294155844155844
+2023,GUTS by Olivia Rodrigo,track 12,​teenage dream,0.3652173913043478,0.5507246376811594
+2024,Only God Was Above Us by Vampire Weekend,track 1,Ice Cream Piano,0.0341176470588235,0.4413725490196078
+2024,Only God Was Above Us by Vampire Weekend,track 2,Classical,-0.2706349206349207,0.4091269841269841
+2024,Only God Was Above Us by Vampire Weekend,track 3,Capricorn,0.1123737373737374,0.4414351851851851
+2024,Only God Was Above Us by Vampire Weekend,track 4,Connect,-0.0858974358974359,0.3
+2024,Only God Was Above Us by Vampire Weekend,track 5,Prep-School Gangsters,-0.3069444444444444,0.7097222222222221
+2024,Only God Was Above Us by Vampire Weekend,track 6,The Surfer,-0.0916666666666666,0.3333333333333333
+2024,Only God Was Above Us by Vampire Weekend,track 7,Gen-X Cops,0.2702479338842976,0.6522727272727272
+2024,Only God Was Above Us by Vampire Weekend,track 8,Mary Boone,0.1218181818181818,0.4110606060606061
+2024,Only God Was Above Us by Vampire Weekend,track 9,Pravda,0.049074074074074,0.4162037037037036
+2024,Only God Was Above Us by Vampire Weekend,track 10,Hope,-0.0215277777777777,0.3381944444444444
+2024,eternal sunshine by Ariana Grande,track 1,​intro (end of the world),0.0526785714285714,0.6089285714285714
+2024,eternal sunshine by Ariana Grande,track 2,​bye,0.0028138528138528,0.4852813852813853
+2024,eternal sunshine by Ariana Grande,track 3,​don’t wanna break up again,0.0341145833333333,0.4833333333333334
+2024,eternal sunshine by Ariana Grande,track 4,Saturn Returns Interlude,0.3333333333333333,0.4666666666666667
+2024,eternal sunshine by Ariana Grande,track 5,​eternal sunshine,-0.0598639455782313,0.5118934240362811
+2024,eternal sunshine by Ariana Grande,track 6,​supernatural,0.3007936507936508,0.6153769841269839
+2024,eternal sunshine by Ariana Grande,track 7,​true story,0.4487179487179487,0.5918803418803424
+2024,eternal sunshine by Ariana Grande,track 8,​the boy is mine,0.1072916666666666,0.4165178571428571
+2024,eternal sunshine by Ariana Grande,track 9,"​yes, and?",0.2468253968253967,0.6412698412698414
+2024,eternal sunshine by Ariana Grande,track 10,​we can’t be friends (wait for your love),0.4388888888888889,0.6111111111111109
+2024,eternal sunshine by Ariana Grande,track 11,​i wish i hated you,-0.2572150072150072,0.7105339105339104
+2024,eternal sunshine by Ariana Grande,track 12,​imperfect for you,0.0463235294117647,0.5688725490196076
+2024,eternal sunshine by Ariana Grande,track 13,​ordinary things,-0.0206609195402298,0.5811781609195402
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 1,SKINNY,0.1303921568627451,0.6137254901960786
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 2,LUNCH,0.1117521367521367,0.4202991452991452
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 3,CHIHIRO,0.1134615384615384,0.4972222222222222
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 4,BIRDS OF A FEATHER,0.2204545454545454,0.4943181818181817
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 5,WILDFLOWER,0.1406249999999999,0.4725694444444444
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 6,THE GREATEST,0.5059006211180123,0.7189440993788822
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 7,L’AMOUR DE MA VIE,0.2066425120772946,0.5361111111111111
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 8,THE DINER,-0.044345238095238,0.3900297619047619
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 9,BITTERSUITE,0.0214285714285714,0.4607142857142857
+2024,HIT ME HARD AND SOFT by Billie Eilish,track 10,BLUE,-0.0330510992275698,0.4277777777777777
