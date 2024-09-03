@@ -52,7 +52,7 @@ which is now indicated with blue nodes, and those genres in the same cluster can
 relatively closer to :rainbow[pop], at least in respect of connotation.**
 """
 
-file = open(r"database/genre_network.html", "r", encoding="utf-8")
+# file = open(r"database/genre_network.html", "r", encoding="utf-8")
 
 st.subheader(":rainbow[Section 3: Genres Network]", anchor=False, divider="rainbow")
 
@@ -62,7 +62,13 @@ with st.chat_message(name="message", avatar="🧚‍♂️"):
 with st.chat_message(name="message", avatar="🧚‍♂️"):
     st.markdown(text1)
 
-components.html(file.read(), height=500)
+# components.html(file.read(), height=500)
+
+url = "https://huma5630-digital-humanities.github.io/project-2024-group-5/database/genre_network.html"  
+iframe_code = f'''
+    <iframe src="{url}" width="700" height="600" style="border:none;"></iframe>
+'''
+st.components.v1.html(iframe_code, height=500)
 
 with st.chat_message(name="message", avatar="🧚‍♂️"):
     st.markdown(text2)
