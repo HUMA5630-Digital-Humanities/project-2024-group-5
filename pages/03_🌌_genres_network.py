@@ -52,7 +52,11 @@ which is now indicated with blue nodes, and those genres in the same cluster can
 relatively closer to :rainbow[pop], at least in respect of connotation.**
 """
 
-file = open(r"database/genre_network.html", "r", encoding="utf-8")
+# file = open(r"database/genre_network.html", "r", encoding="utf-8")
+import os
+html_file_path = os.path.join("database", "genre_network.html")
+with open(html_file_path, "r", encoding="utf-8") as file:
+    html_content = file.read()
 
 st.subheader(":rainbow[Section 3: Genres Network]", anchor=False, divider="rainbow")
 
@@ -62,7 +66,8 @@ with st.chat_message(name="message", avatar="🧚‍♂️"):
 with st.chat_message(name="message", avatar="🧚‍♂️"):
     st.markdown(text1)
 
-components.html(file.read(), height=500)
+# components.html(file.read(), height=500)
+st.components.v1.html(html_content, height=500)
 
 with st.chat_message(name="message", avatar="🧚‍♂️"):
     st.markdown(text2)
