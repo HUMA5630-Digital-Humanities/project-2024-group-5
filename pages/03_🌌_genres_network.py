@@ -64,11 +64,12 @@ with st.chat_message(name="message", avatar="🧚‍♂️"):
 
 # components.html(file.read(), height=500)
 
-url = "https://huma5630-digital-humanities.github.io/project-2024-group-5/database/genre_network.html"  
-iframe_code = f'''
-    <iframe src="{url}" width="700" height="600" style="border:none;"></iframe>
-'''
-st.components.v1.html(iframe_code, height=500)
+image_url = "https://raw.githubusercontent.com/HUMA5630-Digital-Humanities/project-2024-group-5/main/database/networkgraph-screenshot.png"  
+redirect_url = "https://huma5630-digital-humanities.github.io/project-2024-group-5/database/genre_network.html" 
+st.markdown(
+    f'<a href="{redirect_url}" target="_blank"><img src="{image_url}" style="width: 100%;"></a>',
+    unsafe_allow_html=True
+)
 
 with st.chat_message(name="message", avatar="🧚‍♂️"):
     st.markdown(text2)
